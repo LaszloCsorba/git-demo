@@ -1,4 +1,4 @@
 #Demo Git Repository
-This is the first file in this repo.
-This is the second file in this repo.
-This is the third file in this repo.
+This is the first change in this repo.
+This is the second change in this repo.
+This is the third change in this repo.
